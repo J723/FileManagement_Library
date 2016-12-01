@@ -1,0 +1,5 @@
+D:\scuola\informatica\c# Library\FileManagement\FileManagement\bin\Debug\FileManagement.dll
+D:\scuola\informatica\c# Library\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+D:\scuola\informatica\c# Library\FileManagement\FileManagement\obj\Debug\FileManagement.dll
+D:\scuola\informatica\c# Library\FileManagement\FileManagement\obj\Debug\FileManagement.pdb
+D:\scuola\informatica\c# Library\FileManagement\FileManagement\obj\Debug\FileManagement.csprojResolveAssemblyReference.cache

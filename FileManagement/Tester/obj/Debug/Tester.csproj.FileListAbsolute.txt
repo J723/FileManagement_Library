@@ -1,0 +1,11 @@
+D:\scuola\informatica\c# Library\FileManagement\Tester\bin\Debug\Tester.exe.config
+D:\scuola\informatica\c# Library\FileManagement\Tester\bin\Debug\Tester.exe
+D:\scuola\informatica\c# Library\FileManagement\Tester\bin\Debug\Tester.pdb
+D:\scuola\informatica\c# Library\FileManagement\Tester\bin\Debug\FileManagement.dll
+D:\scuola\informatica\c# Library\FileManagement\Tester\bin\Debug\FileManagement.pdb
+D:\scuola\informatica\c# Library\FileManagement\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+D:\scuola\informatica\c# Library\FileManagement\Tester\obj\Debug\Tester.Properties.Resources.resources
+D:\scuola\informatica\c# Library\FileManagement\Tester\obj\Debug\Tester.Tester.resources
+D:\scuola\informatica\c# Library\FileManagement\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache
+D:\scuola\informatica\c# Library\FileManagement\Tester\obj\Debug\Tester.exe
+D:\scuola\informatica\c# Library\FileManagement\Tester\obj\Debug\Tester.pdb
